@@ -1,0 +1,7 @@
+shiny
+pandas
+numpy
+scipy
+pingouin
+matplotlib
+eaborn

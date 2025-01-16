@@ -1,7 +1,7 @@
 # Trabajo de Fin de Grado Ignacio González Arnaiz
 
 ## Título
-**Influencia de la suplementación con bifidobacterias en el estado oxidativo de deportistas de Crossfit**
+**Influencia de la suplementación con probióticos en el estado oxidativo de deportistas de Crossfit**
 
 ## Autor
 **Ignacio González Arnaiz**  

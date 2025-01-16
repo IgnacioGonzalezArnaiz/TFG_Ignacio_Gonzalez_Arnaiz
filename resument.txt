@@ -1,10 +1,6 @@
-Resumen:
+Se conoce como estrés oxidativo un estado de desequilibrio entre agentes oxidantes y antioxidantes que puede provocar daño molecular en el organismo humano. Los atletas de Crossfit están especialmente expuestos a este problema debido a sus entrenamientos de alta intensidad. En relación con estos dos conceptos, los probióticos han mostrado potencial para regular el estrés oxidativo a través de la regulación de la microbiota intestinal, aunque su eficacia en deportistas de Crossfit no ha sido suficientemente estudiada.
 
-Este Trabajo de Fin de Grado afronta una investigación detallada acerca de la suplementación con probióticos y su impacto en el estrés oxidativo en atletas de Crossfit. Se conoce como estrés oxidativo un estado de desequilibrio entre agentes oxidantes y antioxidantes, en favor de los primeros, que provoca daño molecular en el organismo. 
+Este Trabajo de Fin de Grado afronta una investigación detallada acerca de la suplementación con (Lactobacillus plantarum PS128 y su impacto en el estrés oxidativo en atletas de Crossfit. Se ha seguido un ensayo doble ciego en 24 deportistas de Crossfit (14 en el grupo probiótico y 10 en el grupo placebo) durante 4 semanas. Los participantes han recibido diariamente una cápsula de probiótico (1 x 1010 UFC de Lactobacillus plantarum PS128) o de placebo (cápsula de 2g de dextrosa). Para el correcto desarrollo de la investigación, se han llevado a cabo distintas técnicas espectrofotométricas y espectrofluorimétricas para la obtención de proteínas totales en plasma así como otros biomarcadores específicos de estrés oxidativo en plasma (proteínas carboniladas, malondialdehído-TBARs, capacidad antioxidante total
+por FRAP y niveles de glutatión oxidado y reducido).
 
-Para el correcto desarrollo de la investigación, se ha seguido una metodología precisa con diversos ensayos para la obtención de biomarcadores específicos. Una vez obtenidos los resultados experimentales, han sido analizados detalladamente para estudiar su significancia estadística.
-
-A pesar de los rigurosos protocolos experimentales, no se han apreciado diferencias estadísticamente significativas en los biomarcadores medidos antes y después de la suplementación con probióticos. Esto sugiere que en este estudio, los probióticos no han tenido un efecto significativo en el estrés oxidativo de los atletas de Crossfit.
-
-Descriptores:
-Probióticos, estrés oxidativo, Crossfit, suplementación, análisis estadístico, atletas, investigación, ejercicio físico, salud, antioxidantes, oxidantes, biomarcadores.
+A pesar de los antecedentes bibliográficos, no se han apreciado diferencias estadísticamente significativas en los biomarcadores medidos. Esto sugiere que, en este estudio, la cepa probiótica utilizada no ha tenido un efecto significativo en el estrés oxidativo de los atletas de Crossfit bajo las condiciones estudiadas.
